@@ -1,5 +1,12 @@
 # Melio
-###### Profile/Portfolio Management System - PMS
+Profile|Portfolio Management System - PMS
 
 
-Under Development... Check back often and or watch/star this repo at upper right corner of this page to get notified of every changes/updates...
+##### Under Development...
+If you seem to know your way around Codeigniter, you can download and start to use..
+
+#### Feedback
+You feedback and suggestions are really gonna be appreciated. 
+- [michaelakanji.com](http://michaelakanji.com)
+- [fb.me/matscode](http://fb.com/matscode)
+- [twitter.com/matscode](http://twitter.com/matscode)
