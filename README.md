@@ -3,7 +3,7 @@ Profile|Portfolio Management System - PMS
 
 
 ##### Under Development...
-If you seem to know your way around Codeigniter, you can download and start to use..
+If you seem to know your way around Codeigniter, you can download and start to use.. while I prepare setup documentation.
 
 #### Feedback
 Your feedback and suggestions are really gonna be appreciated. 
