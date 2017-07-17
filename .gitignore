@@ -1,0 +1,36 @@
+.DS_Store
+
+app/cache/*
+!app/cache/index.html
+!app/cache/.htaccess
+
+app/logs/*
+!app/logs/index.html
+!app/logs/.htaccess
+
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+
+#---------------------------------
+assets/scss/*
+
+
+# Get rid of any .map file
+#--------------------------
+*.map
+
+# Melio file
+# ---------------------
+!usercontent/images/melio-*
