@@ -6,7 +6,7 @@ Profile|Portfolio Management System - PMS
 If you seem to know your way around Codeigniter, you can download and start to use..
 
 #### Feedback
-You feedback and suggestions are really gonna be appreciated. 
+Your feedback and suggestions are really gonna be appreciated. 
 - [michaelakanji.com](http://michaelakanji.com)
 - [fb.me/matscode](http://fb.com/matscode)
 - [twitter.com/matscode](http://twitter.com/matscode)
