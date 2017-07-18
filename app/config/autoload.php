@@ -126,7 +126,8 @@
 	*/
 	$autoload['config'] =
 		[
-			'melio'
+			'melio',
+		    'clu'
 		];
 
 	/*
